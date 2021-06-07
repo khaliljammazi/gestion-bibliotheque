@@ -12,5 +12,5 @@
 <li>Ajouter le pilote au projet (RojeruSan.parte1.jar)</li>
 <li>Ajouter le pilote au projet (Spire.Doc.jar)</li>
 </ul>
-<strong>Pour exécuter le projet :) </strong>
+<strong>Pour exécuter le projet :blush: </strong>
 </em></p>
